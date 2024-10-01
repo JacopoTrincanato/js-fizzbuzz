@@ -41,3 +41,8 @@ console.log('hello');
 //FASE 4: output
 //stampo in console
 
+for (let i = 1; i <= 100; i++) {
+
+  console.log(i);
+  
+}
