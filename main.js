@@ -1,23 +1,13 @@
 console.log('hello');
 
 //FASE 1: preparazione
-//creo variabile dove salvare 
-
-
-//creo variabile dove salvare 
-
-
-//creo variabile dove salvare 
-
-
-//creo variabile dove salvare 
-
-
-//creo variabile dove salvare 
-
-
-//creo variabile dove salvare 
-
+//creo il loop che mi stampi i numeri da 1 a 100 
+ 
+for (let i = 1; i <= 100; i++) {
+   
+    console.log(i);
+    
+  }
 
 //FASE 2: raccolta Dati
 //assegno un valore a 
@@ -40,9 +30,3 @@ console.log('hello');
 
 //FASE 4: output
 //stampo in console
-
-for (let i = 1; i <= 100; i++) {
-
-  console.log(i);
-  
-}
