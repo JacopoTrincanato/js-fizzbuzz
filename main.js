@@ -15,10 +15,16 @@ let i
 
 //FASE 2: raccolta Dati
 //assegno un valore a i
-i = 1
+i = 1;
 
 //assegno una condizione a i
-i <= 100
+i <= 100;
+
+//assegno una condizione a i per trovare i numeri multipli di 3
+i % 3 == 0;
+
+//assegno una condizione a i per trovare i numeri multipli di 5
+i % 5 == 0;
 
 //FASE 3: elaborazione dati
 //creo il loop che mi stampi i numeri da 1 a 100  
