@@ -5,19 +5,14 @@ console.log('hello');
 let i
 
 //FASE 2: raccolta Dati
-//assegno un valore a 
+//assegno un valore a i
+i = 1
 
+//assegno una condizione a i
+i <= 100
 
-//assegno un valore a 
+ 
 
-
-//assegno un valore a 
-
-
-//assegno un valore a 
-
-
-//assegno un valore a 
 
 
 //FASE 3: elaborazione dati
