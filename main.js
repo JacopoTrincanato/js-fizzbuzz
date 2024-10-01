@@ -12,8 +12,7 @@ i = 1
 i <= 100
 
 //FASE 3: elaborazione dati
-//creo il loop che mi stampi i numeri da 1 a 100 
- 
+//creo il loop che mi stampi i numeri da 1 a 100  
 for (let i = 1; i <= 100; i++) {
 
 //imposto la condizione per il quale stampi 'FizzBuzz' al posto dei multipli sia di 3 che di 5        
@@ -28,7 +27,8 @@ for (let i = 1; i <= 100; i++) {
     }else if (i % 5 == 0) {
         console.log('Buzz');
 
-        
+//FASE 4: output
+//stampo in console l'output dei numeri fino a 100
     }else {
         console.log(i);
         
@@ -36,5 +36,4 @@ for (let i = 1; i <= 100; i++) {
     
   }
 
-//FASE 4: output
-//stampo in console
+
