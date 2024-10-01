@@ -1,5 +1,3 @@
-console.log('hello');
-
 //FASE 1: preparazione
 //creo la variabile i
 let i
