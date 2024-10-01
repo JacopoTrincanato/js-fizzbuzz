@@ -1,3 +1,14 @@
+/*FASE 0: proprietà utilizzate
+-dichiarazione variabile
+-operatore di incremento (i++)
+-contatore (let i = 1)
+-condizione (i <=100)
+-istruzioni condizionali (if, else, else if)
+-operatori relazionali (==)
+-operatori logici (&&)
+-operatori matematici (% INDICA IL RESTO DELL'OPERAZIONE DI DIVISIONE)*/
+
+
 //FASE 1: preparazione
 //creo la variabile i
 let i
@@ -14,7 +25,7 @@ i <= 100
 for (let i = 1; i <= 100; i++) {
 
 //imposto la condizione per il quale stampi 'FizzBuzz' al posto dei multipli sia di 3 che di 5        
-    if (i % 3 == 0 && i % 5 == 0) {
+    if ((i % 3 == 0) && (i % 5 == 0)) {
     console.log('FizzBuzz');
    
 //imposto la condizione per il quale stampi 'Fizz' al posto dei multipli di 3
